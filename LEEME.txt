@@ -1,0 +1,8 @@
+CRÓNICAS DE ARRAKIS
+
+Sube index.html y la carpeta assets completa a la raíz de tu repositorio GitHub.
+No subas solo index.html: las imágenes están en assets/.
+En GitHub Pages usa main / (root).
+Comprueba https://TU-USUARIO.github.io/cronicas-de-arrakis/
+
+Imágenes derivadas de las maquetas generadas para este proyecto.
